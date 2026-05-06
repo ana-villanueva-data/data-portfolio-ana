@@ -13,28 +13,38 @@ Focused on data analysis to improve processes and support decision-making.
 - Data Visualization
 
 ## Projects
-
 ## 🚖 Proyecto 1: Movilidad urbana y productividad económica en ciudades de Latinoamérica
 
 **🔍 Problema:**  
-Identificar en qué ciudades es más estratégico invertir en infraestructura de transporte para mejorar la productividad económica y el bienestar de la población.
+Analizar cómo la congestión vehicular impacta la productividad económica en ciudades de Latinoamérica, con el objetivo de identificar dónde es más estratégico invertir en infraestructura de transporte.
 
 **📊 Qué hice:**  
-Integré y analicé datos de tráfico de TomTom junto con indicadores económicos de la OECD utilizando Python y Pandas, con el objetivo de evaluar la relación entre movilidad urbana y desempeño económico.
+Trabajé con datos reales de tráfico (TomTom Traffic Index) y datos económicos (OECD), integrándolos para analizar la relación entre movilidad urbana y desempeño económico.
 
 **⚙️ Proceso:**  
-- Limpieza y transformación de datos  
-- Integración de múltiples fuentes de información  
-- Análisis exploratorio de datos  
-- Evaluación de correlaciones entre variables  
+- Carga y exploración de datos con Python (pandas, numpy)  
+- Limpieza y transformación de datos (formatos, fechas, valores numéricos)  
+- Estandarización de columnas (snake_case)  
+- Conversión de variables a tipos adecuados (datetime, float)  
+- Creación de nuevas variables (año, población total)  
+- Filtrado de datos relevantes (año 2024)  
+- Agrupación y cálculo de promedios por ciudad  
+- Análisis exploratorio para identificar patrones  
 
 **📈 Resultados:**  
-- Identifiqué una relación directa entre el incremento de la congestión y la disminución del desempeño económico  
-- Detecté ciudades con mayor impacto negativo por tráfico  
-- Generé insights para priorizar inversiones en infraestructura  
+- Identifiqué que mayores niveles de congestión están asociados con menor eficiencia en tiempos de traslado  
+- Detecté diferencias significativas entre ciudades en niveles de tráfico y desempeño  
+- Generé una base consolidada por ciudad que permite comparar movilidad y condiciones económicas  
 
 **🧠 Insight clave:**  
-La congestión urbana no solo afecta la movilidad, sino que tiene un impacto directo en la productividad y el desarrollo económico de las ciudades.
+La congestión urbana no solo afecta la movilidad diaria, sino que impacta directamente en la eficiencia operativa y la productividad económica de las ciudades.
 
 **🛠️ Skills:**  
-Python | Pandas | Análisis de datos | Limpieza de datos | EDA
+Python | Pandas | Limpieza de datos | Transformación de datos | EDA | Análisis de datos
+
+📊 **Interpretación:**
+Bogotá presenta el mayor nivel de congestión, lo que indica un mayor impacto en tiempos de traslado y posibles efectos negativos en la productividad urbana, en comparación con CDMX y Lima.
+
+📊 **Visualización:**
+
+![Gráfica de congestión](movilidad.png)
