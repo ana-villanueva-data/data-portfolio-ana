@@ -82,5 +82,5 @@ Excel | Análisis de datos | KPIs | Finanzas | Toma de decisiones
 
 📊 **Visualización:**
 
-![Análisis financiero](roi_margen_analisis.png)
+![Análisis financiero](roi_marge_analisis.png)
 
