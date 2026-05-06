@@ -1,7 +1,7 @@
 # Data Analyst Portfolio – Ana Villanueva
 
 ## About Me
-Data Analyst with 10+ years of experience in operations, logistics, and business. 
+Data Analyst with 15 years of experience in business areas, including operations, logistics, purchasing, and sales. 
 Focused on data analysis to improve processes and support decision-making.
 
 ## Skills
