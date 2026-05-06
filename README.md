@@ -84,3 +84,37 @@ Excel | Análisis de datos | KPIs | Finanzas | Toma de decisiones
 
 ![Análisis financiero](roi_marge_analisis.png)
 
+## 📊 Proyecto 3: Análisis de ventas y eficiencia por tienda (Walmart)
+
+**🔍 Problema:**  
+Identificar qué tiendas y departamentos generan mayores ventas y cuáles son más eficientes en términos de ventas por metro cuadrado.
+
+**📊 Qué hice:**  
+Trabajé con datos de ventas semanales por tienda y departamento, integrando diferentes tablas para analizar el rendimiento comercial y la eficiencia operativa.
+
+**⚙️ Proceso:**  
+- Limpieza e integración de datos (ventas, tiendas, departamentos)  
+- Creación de tablas dinámicas para análisis agregado  
+- Cálculo de KPIs clave (ventas totales, ventas por m², participación %)  
+- Desarrollo de dashboard interactivo para exploración de resultados  
+- Validación de datos (valores nulos, negativos, consistencia de métricas)  
+
+**📈 Resultados:**  
+- Identifiqué tiendas y departamentos con mayor volumen de ventas  
+- Detecté diferencias en eficiencia entre tiendas (ventas por m²)  
+- Se observaron áreas con bajo desempeño que representan oportunidad de mejora  
+- Se generó un dashboard que permite analizar rápidamente el rendimiento  
+
+**🧠 Insight clave:**  
+No siempre las tiendas con mayores ventas son las más eficientes; el análisis de ventas por m² permite identificar oportunidades reales de optimización.
+
+**📊 Interpretación:**  
+Optimizar el espacio y enfocarse en departamentos más rentables puede incrementar significativamente la eficiencia y rentabilidad de las tiendas.
+
+**🛠️ Skills:**  
+Excel | Tablas dinámicas | KPIs | Análisis de datos | Dashboard | Validación de datos
+
+📊 **Visualización:**
+
+![Dashboard de ventas](readme_walmart.png)
+
