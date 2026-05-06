@@ -48,3 +48,38 @@ Bogotá presenta el mayor nivel de congestión, lo que indica un mayor impacto e
 📊 **Visualización:**
 
 ![Gráfica de congestión](movilidad.png)
+
+
+## 📊 Proyecto 2: Análisis financiero y rentabilidad por país
+
+**🔍 Problema:**  
+Evaluar el desempeño financiero por país para identificar qué mercados son más rentables y dónde optimizar la inversión en campañas de marketing.
+
+**📊 Qué hice:**  
+Trabajé con una tabla consolidada que incluye ingresos, costos operativos y gasto en campañas para analizar la rentabilidad y eficiencia de distintos mercados.
+
+**⚙️ Proceso:**  
+- Limpieza y validación de datos  
+- Cálculo de métricas clave (Beneficio Bruto, Margen %, ROI %)  
+- Comparación de desempeño entre países  
+- Análisis de eficiencia de inversión en marketing  
+- Identificación de patrones y oportunidades  
+
+**📈 Resultados:**  
+- Estados Unidos es el mercado más rentable, con mayor beneficio bruto y ROI  
+- Australia presenta altos ingresos pero menor eficiencia en marketing  
+- Europa (UK, Alemania, Francia) muestra ROI bajo a pesar de márgenes similares (~42%)  
+- Se identificaron diferencias claras entre rentabilidad operativa (margen) y eficiencia de inversión (ROI)  
+
+**🧠 Insight clave:**  
+Un alto margen no garantiza un alto ROI; la eficiencia de la inversión en campañas es clave para maximizar la rentabilidad.
+
+**📊 Interpretación:**  
+Incrementar la inversión en mercados con alto ROI como Estados Unidos puede generar mayor retorno, mientras que en mercados con bajo ROI es necesario optimizar estrategias de marketing.
+
+**🛠️ Skills:**  
+Excel | Análisis de datos | KPIs | Finanzas | Toma de decisiones
+
+📊 **Visualización:**
+
+![Análisis financiero](analisis_financiero.png)
